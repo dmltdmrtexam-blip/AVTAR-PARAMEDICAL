@@ -1,0 +1,6 @@
+{
+  "name": "Avtar Paramedical Academy",
+  "description": "Professional Paramedical Education & CBT Online Mock Examination Engine with courses, secure notes, proctoring, and student performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
